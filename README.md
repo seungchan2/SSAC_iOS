@@ -11,7 +11,7 @@
 - [ ] Simulator Build
 
 #### 1일차 Assignment
-- [ ] Netfix Project로 UI 복습하기
+- [ ] Netflix Project로 UI 복습하기
 - [ ] 배달의 민족 UI 구성하기
 - [ ] 다양한 버전과 기기의 Simulator 
 - [ ] Entry Point란?
