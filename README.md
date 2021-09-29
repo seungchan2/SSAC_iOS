@@ -1,4 +1,4 @@
-## SSAC iOS TIL 
+## SSAC iOS Today I Learned
 
 
 [09월 28일 TIL](https://seungchan.tistory.com/entry/SSAC-TIL-09%EC%9B%94-28%EC%9D%BC-TIL)
