@@ -16,6 +16,7 @@
 - Snippet
 - UI 에셋 / 리소스 좋은 사이트들
 - Clean Build
-- 앱의 생명주기
-- Debug & Breakpoint
-- Xcode 13, iOS 15 Button
+- 앱의 생명주기 (다시 정리)
+- Debug & Breakpoint (다시 정리)
+- Xcode 13, iOS 15 Button (다시 정리)
+- @main ->    다시 정리
