@@ -29,3 +29,7 @@
 - Type Alias
 - Generic
 - Ternary operator
+- UITextField
+- UISwitch
+- Tap Gesture
+- 정규식 활용
