@@ -20,3 +20,12 @@
 - Debug & Breakpoint (다시 정리)
 - Xcode 13, iOS 15 Button (다시 정리)
 - @main ->    다시 정리
+
+[09월 30일 TIL](https://seungchan.tistory.com/entry/SSAC-iOS-09%EC%9B%94-30%EC%9D%BC-TIL)
+- 스위프트 기초 문법
+- 타입 어노테이션 & 타입 추론
+- 오류 대처법
+- Array, Dictionary, Set
+- Type Alias
+- Generic
+- Ternary operator
