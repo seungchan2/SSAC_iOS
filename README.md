@@ -1,5 +1,8 @@
 ## SSAC iOS Today I Learned
 
+### TODO
+- [ ] Main -> CollectionView 쓰기
+- [ ] imageArray -> Random
 
 [09월 28일 TIL](https://seungchan.tistory.com/entry/SSAC-TIL-09%EC%9B%94-28%EC%9D%BC-TIL)
 - 앱의 구조와 동작 원리
