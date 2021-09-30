@@ -80,12 +80,12 @@ class SignUpViewController: UIViewController {
     // TextField가 실시간 반응을 해야해서 DidChange를 씀.
     // passwordTextField.text 옵셔널 바인딩, 비밀번호 6글자 이상
     @objc func textFieldDidChange(_ textField: UITextField) {
-        let isEmailEmpty = emailTextField.text == ""
-        let isPasswordEmpty = passwordTextField.text == ""
-        
-        guard let password = passwordTextField.text else { return }
-        
-        signUpButton.isEnabled = !isEmailEmpty && !isPasswordEmpty && password.count > 5
+        if let email = emailTextField.text, let password = passwordTextField.text {
+             let isEmailEmpty = email == ""
+             let isPasswordEmpty = password == ""
+             signUpButton.isEnabled = !isEmailEmpty && !isPasswordEmpty && password.count > 5
+        }
+
         
     }
     
@@ -100,7 +100,11 @@ class SignUpViewController: UIViewController {
     // if let 구문을 써서 TextField.text 옵셔널 바인딩 하고
     // 미션 중에 버튼 클릭 시 정보가 나와야 하기 때문에 print문을 찍음.
     @IBAction func touchNextButton(_ sender: UIButton) {
-        if let email = emailTextField.text, let password = passwordTextField.text, let nickname = nicknameTextField.text, let place = placeTextField.text, let recommend = recommendTextField.text {
+        if let email = emailTextField.text,
+            let password = passwordTextField.text,
+            let nickname = nicknameTextField.text,
+            let place = placeTextField.text,
+            let recommend = recommendTextField.text {
             print(email)
             print(password)
             print(nickname)
