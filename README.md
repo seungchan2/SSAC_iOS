@@ -3,6 +3,7 @@
 ### TODO
 - [ ] Main -> CollectionView 쓰기
 - [ ] imageArray -> Random
+- [ ] 함수 파라미터 사용해 코드 간결하게 하기
 
 [09월 28일 TIL](https://seungchan.tistory.com/entry/SSAC-TIL-09%EC%9B%94-28%EC%9D%BC-TIL)
 - 앱의 구조와 동작 원리
@@ -36,3 +37,4 @@
 - UISwitch
 - Tap Gesture
 - 정규식 활용
+
