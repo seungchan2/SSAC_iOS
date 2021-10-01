@@ -38,7 +38,7 @@
 - Tap Gesture
 - 정규식 활용
 
-[10월 01일](https://seungchan.tistory.com/entry/SSAC-iOS-10%EC%9B%94-01%EC%9D%BC-TIL)
+[10월 01일 TIL](https://seungchan.tistory.com/entry/SSAC-iOS-10%EC%9B%94-01%EC%9D%BC-TIL)
 - 조건문
 - 사용자 정의 함수
 - Function vs Method
