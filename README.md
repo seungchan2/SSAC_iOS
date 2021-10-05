@@ -49,3 +49,12 @@
 - Overriding
 - Overloading
 - Dark Mode
+
+[10월 05일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-05%EC%9D%BC-TIL)
+- VCS
+- Git, Github
+- Size Class
+- UINavigationController
+- TabbarController
+- App Lifecycle
+- ViewController Lifecycle
