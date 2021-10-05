@@ -1,10 +1,12 @@
 ## SSAC iOS Today I Learned
 
 ### TODO
-- [ ] Main -> CollectionView 쓰기
+- [ ] Nexflix Main -> CollectionView 쓰기
 - [ ] imageArray -> Random
 - [ ] 함수 파라미터 사용해 코드 간결하게 하기
-- [ ] 2차 과제 수정 
+- [ ] LEDBoard TapGesture -> isHidden 추가
+- [ ] 입력하는 text가 길어지면 스크롤 되게 하기
+- [ ] 신조어 검색 버튼 클릭 시, 밑에 버튼 random 
 
 [09월 28일 TIL](https://seungchan.tistory.com/entry/SSAC-TIL-09%EC%9B%94-28%EC%9D%BC-TIL)
 - 앱의 구조와 동작 원리
