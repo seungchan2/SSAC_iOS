@@ -102,7 +102,7 @@
                                             <attributedString key="attributedTitle">
                                                 <fragment content="헣거허거헉">
                                                     <attributes>
-                                                        <font key="NSFont" size="9" name=".AppleSDGothicNeoI-Regular"/>
+                                                        <font key="NSFont" metaFont="miniSystem"/>
                                                         <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                                     </attributes>
                                                 </fragment>
