@@ -13,11 +13,20 @@ class ViewController: UIViewController {
     @IBOutlet var ledLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        actionCheckingPasswordTextField()
+        loadTextFieldText()
     }
     
-    private func actionCheckingPasswordTextField() {
+    private func loadTextFieldText() {
         ledTextField.addTarget(self, action: #selector(ViewController.textFieldDidChange(_:)), for: UIControl.Event.allEditingEvents)
+    }
+    
+    private func changeTextColorRandom() {
+       
+        let red: CGFloat = CGFloat.random(in: 0...1)
+        let green: CGFloat = CGFloat.random(in: 0...1)
+        let blue: CGFloat = CGFloat.random(in: 0...1)
+    
+        self.ledLabel.textColor = UIColor(red: red, green: green, blue: blue, alpha: 1)
     }
     
     // MARK: @objc Function
@@ -28,7 +37,11 @@ class ViewController: UIViewController {
     
     
     @IBAction func sendButton(_ sender: Any) {
-            }
+        ledLabel.text = ledTextField.text
+    }
     
+    @IBAction func changeColorButton(_ sender: UIButton) {
+        changeTextColorRandom()
+    }
 }
 
