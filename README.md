@@ -60,3 +60,14 @@
 - TabbarController
 - App Lifecycle
 - ViewController Lifecycle
+
+[10월 06일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-6%EC%9D%BC-TIL)
+- 열거형
+- 원시값
+- Storyboard Reference
+- Main Interface 설정
+- 라이브러리
+- CocoaPods
+- Swift Package Manager
+- Dependency Rules
+- UserDefaults
