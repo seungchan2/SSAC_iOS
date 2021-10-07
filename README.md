@@ -71,3 +71,13 @@
 - Swift Package Manager
 - Dependency Rules
 - UserDefaults
+
+[10월 07일 TIL]
+- Class
+- Struct
+- Instance
+- Override
+- Property
+- Initializer
+- Value Type vs Reference Type
+- Date Picker 
