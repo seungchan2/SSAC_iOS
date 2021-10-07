@@ -72,7 +72,7 @@
 - Dependency Rules
 - UserDefaults
 
-[10월 07일 TIL]
+[10월 07일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-07%EC%9D%BC-TIL)
 - Class
 - Struct
 - Instance
