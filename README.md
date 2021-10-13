@@ -89,13 +89,13 @@
 - Local Notification
 - Remote Notification
 
-[10월 12일](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-12%EC%9D%BC-TIL)
+[10월 12일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-12%EC%9D%BC-TIL)
 - UITableView
 - reloadData()
 - 옵셔널 바인딩
 - 옵셔널 체이닝
 
-10월 13일
+[10월 13일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-13%EC%9D%BC-TIL)
 - 타입 캐스팅
 - Stored  Property
 - Variable Property
@@ -106,5 +106,3 @@
 - willSet & didSet 
 - oldValue
 
-- reloadData()ㅋㅅ
-- reloadData()
