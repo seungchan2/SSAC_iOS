@@ -7,6 +7,7 @@
 - [ ] LEDBoard TapGesture -> isHidden 추가
 - [ ] 입력하는 text가 길어지면 스크롤 되게 하기
 - [ ] 신조어 검색 버튼 클릭 시, 밑에 버튼 random 
+- [ ] 10월 14일 TIL 수정 
 
 [09월 28일 TIL](https://seungchan.tistory.com/entry/SSAC-TIL-09%EC%9B%94-28%EC%9D%BC-TIL)
 - 앱의 구조와 동작 원리
@@ -105,4 +106,12 @@
 - newValue
 - willSet & didSet 
 - oldValue
+
+[10월 14일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-14%EC%9D%BC-TIL)
+- Extension
+- Type Property, static
+- Instance Method, mutating
+- Type Method, static vs class
+- Singleton Pattern
+- UITableView Automatic Dimension
 
