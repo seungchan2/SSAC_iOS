@@ -115,6 +115,8 @@
 - Singleton Pattern
 - UITableView Automatic Dimension
 
-10월 15일 TIL
+[10월 15일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-15%EC%9D%BC-TIL)
 - Extension
 - TableView
+- Protocol
+- Delegation
