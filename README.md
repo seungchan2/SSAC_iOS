@@ -120,3 +120,16 @@
 - TableView
 - Protocol
 - Delegation
+
+[10월 18일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-18%EC%9D%BC-TIL)
+- Xib
+- Protocol
+- Requirements
+- Enumeration CaseIterable
+
+[10월 25일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-25%EC%9D%BC-TIL)
+- HTTP
+- Request - Response
+- HTTP Method
+- JSON, XML
+- Insomnia
