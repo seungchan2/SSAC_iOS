@@ -133,3 +133,19 @@
 - HTTP Method
 - JSON, XML
 - Insomnia
+
+[10월 26일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-26%EC%9D%BC-TIL)
+- Socket
+- HTTP
+- REST API
+- URL 구조
+- Serialization - Encoding
+- Deserialization - Decoding
+
+[10월 27일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-27%EC%9D%BC-TIL)
+- StatusCode Validate
+- Content-Type
+- multipart/form-data
+- MIME Type
+- Pagenation
+- UITableViewDataSourcePrefetching
