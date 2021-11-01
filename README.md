@@ -149,3 +149,13 @@
 - MIME Type
 - Pagenation
 - UITableViewDataSourcePrefetching
+
+[10월 28일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-28%EC%9D%BC-TIL)
+- map, filter, reduce
+
+[10월 29일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-29%EC%9D%BC-TIL)
+- 동기, 비동기
+
+[10월 30일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-Localization-Font)
+- Localization
+- Font
