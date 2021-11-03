@@ -156,6 +156,18 @@
 [10월 29일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-10%EC%9B%94-29%EC%9D%BC-TIL)
 - 동기, 비동기
 
-[10월 30일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-Localization-Font)
+[11월 1일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-Localization-Font)
 - Localization
 - Font
+
+[11월 2일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-Realm)
+- Realm
+- DBMS
+- RDBMS
+- MongoDB
+
+[11월 3일 TIL](https://seungchan.tistory.com/entry/SeSAC-iOS-Realm-Document-Image)
+- Realm
+- Document Image
+- sort를 활용한 Realm 데이터 
+
